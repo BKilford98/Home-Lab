@@ -37,3 +37,6 @@ Screenshots and diagrams illustrating network layout and VM setup are stored in 
 
 ### Setting up NAT adapter in virtualbox
 ![Creating-a-nat-adapter](Screenshots/creating-a-nat-adapter.png)
+
+### Configuring VM's Network Adapters
+![configuring-vm-adapters.png](Screenshots/configuring-vm-adapters.png)
