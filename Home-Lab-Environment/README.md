@@ -16,6 +16,7 @@ Create a virtual lab environment simulating a small corporate network to gain ha
 - Designed and deployed a segmented virtual network with PFsense  
 - Installed and configured all virtual machines  
 - Verified network connectivity between VMs and network segregation  
+- Deployed firewall inbound and outbound rules
 
 ## Screenshots & Diagrams
 Screenshots and diagrams illustrating network layout and VM setup are stored in the `screenshots` and `diagrams` folders.
