@@ -32,3 +32,8 @@ Screenshots and diagrams illustrating network layout and VM setup are stored in 
 - Basics of firewall configuration and routing in PFsense  
 - Setting up multiple virtual machines to simulate a corporate network  
 - Importance of documenting lab environments before configuration
+
+## Key Screenshot's
+
+### Setting up NAT adapter in virtualbox
+![Configuring NAT adapter](Home-Lab-Environment/Screenshots/Creating-a-NAT-network-for-installing-vm's.png)
