@@ -49,3 +49,9 @@ Screenshots and diagrams illustrating network layout and VM setup are stored in 
 
 ### Creating a second pfSense admin
 ![creating a sesond admin](Screenshots/creating-second-admin.png)
+
+### Deploying firewall rules to segregate the networks
+![firewall deployment](Screenshots/setting-firewall-rules.png)
+
+### Pinging between networks to ensure they can't communicate
+![pinging](Screenshots/pinging-between-networks.png)
