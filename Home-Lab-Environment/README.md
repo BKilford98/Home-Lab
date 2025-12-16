@@ -42,4 +42,10 @@ Screenshots and diagrams illustrating network layout and VM setup are stored in 
 ![configuring vm adapters](Screenshots/configuring-vm-adapters.png)
 
 ### pfSense installation and configuration
-![pfSense install config]
+![pfSense install config](Screenshots/pfSense-install-config.png)
+
+### Verifying correct IP's have been assigned
+![verifying ips](Screenshots/configuring-verifying-ips.png)
+
+### Creating a second pfSense admin
+![creating a sesond admin](Screenshots/creating-a-second-admin.png)
