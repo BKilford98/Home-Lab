@@ -33,6 +33,10 @@ Screenshots and diagrams illustrating network layout and VM setup are stored in 
 - Setting up multiple virtual machines to simulate a corporate network  
 - Importance of documenting lab environments before configuration
 
+## Home-Lab Diagram
+
+![network diagram](Diagrams/)
+
 ## Key Screenshot's
 
 ### Setting up NAT adapter in virtualbox
