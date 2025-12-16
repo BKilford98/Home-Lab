@@ -4,7 +4,7 @@ This document outlines planned improvements and learning goals for my home lab e
 
 ## Short-Term Goals
 - Complete Active Directory installation and domain join
-- Add more users and eplore user management
+- Add more users and explore user management
 
 ## Medium-Term Goals
 - Apply Group Policies
