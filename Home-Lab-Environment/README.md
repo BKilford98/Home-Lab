@@ -35,7 +35,7 @@ Screenshots and diagrams illustrating network layout and VM setup are stored in 
 
 ## Home-Lab Diagram
 
-![network diagram](Diagrams/network-daigram.pdf)
+![network diagram](Diagrams/network-diagram.pdf)
 
 ## Key Screenshot's
 
