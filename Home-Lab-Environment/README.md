@@ -36,7 +36,10 @@ Screenshots and diagrams illustrating network layout and VM setup are stored in 
 ## Key Screenshot's
 
 ### Setting up NAT adapter in virtualbox
-![Creating-a-nat-adapter](Screenshots/creating-a-nat-adapter.png)
+![Creating a NAT adapter](Screenshots/creating-a-nat-adapter.png)
 
-### Configuring VM's Network Adapters
-![configuring-vm-adapters.png](Screenshots/configuring-vm-adapters.png)
+### Configuring VM's network adapters
+![configuring vm adapters](Screenshots/configuring-vm-adapters.png)
+
+### pfSense installation and configuration
+![pfSense install config]
