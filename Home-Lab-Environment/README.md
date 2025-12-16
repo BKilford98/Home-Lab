@@ -48,4 +48,4 @@ Screenshots and diagrams illustrating network layout and VM setup are stored in 
 ![verifying ips](Screenshots/configuring-verifying-ips.png)
 
 ### Creating a second pfSense admin
-![creating a sesond admin](Screenshots/creating-a-second-admin.png)
+![creating a sesond admin](Screenshots/creating-second-admin.png)
