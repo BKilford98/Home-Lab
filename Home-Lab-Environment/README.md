@@ -10,7 +10,8 @@ Create a virtual lab environment simulating a small corporate network to gain ha
 - **PFsense VM** – acts as router/firewall for network segregation  
 - **Internal Network** – Windows Tiny11 client for testing AD and domain services  
 - **Guest Network** – Lubuntu VM for isolated guest traffic  
-- **Metasploitable VM** – simulated vulnerable server for testing and learning security fundamentals  
+- **Metasploitable VM** – simulated vulnerable server for testing and learning security fundamentals
+- **Kali Linux VM** - simulated attacker
 
 ## Completed Tasks
 - Designed and deployed a segmented virtual network with PFsense  
