@@ -1,6 +1,26 @@
 # Home Lab Sandbox
-This is where I will document and demonstrate my learning of different topics, tools and skills. These small projects are designed to help me along the learning process by giving me hands-on experience in a safe environment
-where I can experiment safely and freely.
+This section documents my hands-on learning across networking, security, and systems administration.
+Each project focuses on practical experimentation with real tools and concepts, using a controlled home-lab environment to explore how technologies behave in practice.
 
-> Note: Any notes here are to demonstrate my learning and understanding of the topics shown, they are not a representation of my documenting skills. Furthermore due to the nature of this section and as my learning is ongoing, everything shown
- is subject to mistakes / misunderstandings.
+The purpose of these labs is to:
+
+- Deepen my understanding of networking and security concepts
+
+- Experiment with tools such as Nmap, Wireshark, pfSense, and Linux
+
+- Analyse real traffic and system behaviour
+
+- Build practical skills through structured experimentation
+
+## Tools & Topics Covered
+
+- Networking: TCP/IP, subnets, VLANs, firewall rules, NAT
+
+- Security: Nmap scanning techniques, traffic analysis, attack surface mapping
+
+- Tools: Kali Linux, Wireshark, pfSense, Linux (Ubuntu/Lubuntu), VirtualBox
+
+- Concepts: segmentation, filtering, packet analysis, port states, firewall behaviour
+
+> The notes and write-ups reflect my learning process and technical reasoning at the time of each project.
+As with any evolving technical work, approaches and interpretations may improve over time as my knowledge develops.
