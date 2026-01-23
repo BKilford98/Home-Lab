@@ -82,7 +82,7 @@ As we can see a FIN scan will send only the FIN (Finish flag) in order to probe 
 
 Something interesting we can see in the FIN scan results is that port 22 is shown as open but filtered, however we already know that there is no firewall interfering with our packets by looking at the results of our ACK scan which showed us that our packets were not filtered.
 
-When performing a FIN scan it is looking for either a RST response or none at all to determine the state of the scanned port. It will show as filtered as it didn’t get a response and but it still does not know if that is because the port is open or if the packet was filtered by a firewall, which is why the port is showing “filtered” and “open” when we have already determined there is no firewall blocking our packets.
+When performing a FIN scan it is looking for either a RST response or none at all to determine the state of the scanned port. It shows as filtered as it isn't able to determine whether a port is open or if the firewall intercepted the packet it only knows that the packet didn’t recieve a response which is why it displays as open/filtered.
 
 In short:
 
