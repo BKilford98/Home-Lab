@@ -64,7 +64,7 @@ Next up we will run a null scan on an open port (22) and again on a closed port 
 
 ![Null Scan Closed Port](Screenshots/null-scan-closed-port.png)
 
-From these results we can see that nmap sends a TCP packet with no flags set at all and if the port is open the packet is dropped and nothing is returned, however as shown when we scanned a closed port (60) it returns a reset [RST] packet that indicates the port is closed. What is also worth noting is that in the nmap console if we find an open port it also tells us the state of the firewall (filtered/unfiltered)
+From these results we can see that nmap sends a TCP packet with no flags set at all and if the port is open the packet is dropped and nothing is returned, however as shown when we scanned a closed port (60) it returns a reset [RST] packet that indicates the port is closed. It's also worth noting that in the nmap console if we find an open port it also tells us the state of the firewall (filtered/unfiltered)
 
 ### FIN Scan
 
